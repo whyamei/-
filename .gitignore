@@ -39,3 +39,6 @@ crashlytics-build.properties
 # OS files
 .DS_Store
 Thumbs.db
+
+# WorkBuddy local session data (not part of the Unity project)
+.workbuddy/
